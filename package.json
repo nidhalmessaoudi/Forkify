@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhalmessaoudi/Forkify.git"
+  },
+  "author": "Nidhal Messaoudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhalmessaoudi/Forkify/issues"
+  },
+  "homepage": "https://github.com/nidhalmessaoudi/Forkify#readme",
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "parcel": "^2.0.0-beta.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2"
+  }
+}
