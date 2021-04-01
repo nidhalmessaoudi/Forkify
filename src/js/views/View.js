@@ -93,4 +93,5 @@ export default class View {
         this.parentEl.insertAdjacentHTML("afterbegin", markup);
 
     }
+    
 }
